@@ -1,4 +1,4 @@
-![logo](https://github.com/Mr-nitish/Mr-nitish/blob/main/Background-Banner.png)
+![logo](https://github.com/Mr-nitish/Mr-nitish/blob/main/Nitish%20Kumar%20Yadav-Banner.png)
 <h1 align="center">Hi 👋,this is Nitish Yadav</h1>
 <h3 align="center">A passionate data scientist and Software Developer from India.</h3>
 

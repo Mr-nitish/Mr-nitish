@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-nitish&label=Profile%20views&color=0e75b6&style=flat" alt="mr-nitish" /> </p>
 
-- 🔭 I’m currently working on **Smart Attendance System**
+- 🔭 I’m currently working on **LeetCode SQL Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227](https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227)
 

@@ -1,12 +1,12 @@
 ![logo](https://github.com/Mr-nitish/Mr-nitish/blob/main/Nitish%20Kumar%20Yadav-Banner.png)
 <h1 align="center">Hi 👋,this is Nitish Yadav</h1>
-<h3 align="center">A passionate data scientist and Software Developer from India.</h3>
+<h3 align="center">A passionate data Analyst and ML Engineer from India.</h3>
 
 <img align="right" alt="Data Scientist" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-nitish&label=Profile%20views&color=0e75b6&style=flat" alt="mr-nitish" /> </p>
 
-- 🔭 I’m currently working on **LeetCode SQL Problem Solving**
+- 🔭 I’m currently working on **LeetCode Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227](https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227)
 

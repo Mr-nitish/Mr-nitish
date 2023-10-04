@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227](https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227)
 
-- 💬 Ask me about **c , java , python , MySQL , Data Visualization , Data Analysis , Machine Learning**
+- 💬 Ask me about **c , java , python , MySQL , Data Visualization , Data Analysis , Machine Learning , Deep Learning**
 
 - 📫 How to reach me **mr.nitish8752@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MOHcutbs46jcnlycQ2SAw7WpF8rHsXB1/view?usp=share_link](https://drive.google.com/file/d/1MOHcutbs46jcnlycQ2SAw7WpF8rHsXB1/view?usp=share_link)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227](https://www.linkedin.com/in/nitish-kumar-yadav-b7b577227)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
